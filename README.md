@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 **I’m currently a Computer Science student** at Universitas Halu Oleo, Indonesia.<br><br>👯 **I’m looking to collaborate on** web development projects, beginner-friendly open-source projects, and software development.<br><br>🤝 **I’m looking for help with** improving my problem-solving skills, backend development, writing better code, and gaining real-world development experience.<br><br>🌱 **I’m currently learning** HTML, CSS, JavaScript, Native PHP, MySQL, Python, and C++.<br><br>💬 **Ask me about** web development, PHP Native, database fundamentals, Python, and my journey as a Computer Science student.<br><br>⚡ **Fun fact:** I'm interested in both web development and game development, and I enjoy learning how things work behind the code.
+<div id="top"></div>
+<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;She/her;Computer+Engineering+Student;Brazilian+Frontend+Dev;Cat+Lover+:3;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+</div>
 
 
 ## 🌐 Socials:
