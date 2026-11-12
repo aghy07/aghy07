@@ -2,7 +2,10 @@
 <div align="center" ><img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aghy;He/him;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)" alt="Computer Science Student, Indonesian front-end developer"></a>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&color=7E3ACE&size=30&center=true&vCenter=true&width=600&lines=I'm+Aghy;He%2Fhim;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)"
+        alt="Computer Science Student, Indonesian Frontend Developer">
+    </a>
 </div>
 
 
