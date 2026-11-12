@@ -3,11 +3,10 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&color=7E3ACE&size=30&center=true&vCenter=true&width=600&lines=I'm+Aghy;He%2Fhim;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)"
-        alt="Computer Science Student, Indonesian Frontend Developer">
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=7E3ACE&size=18&center=true&vCenter=true&width=1000&height=80&lines=I'm+Aghy;He%2Fhim;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)"
+        alt="Aghy - Computer Science Student">
     </a>
 </div>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Aghy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aghy.prawira) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghyhutamaprawirasigit@gmail.com) 
