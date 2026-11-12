@@ -1,5 +1,5 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" src="https://github.com/aghy07/aghy07/blob/main/geralt-of-rivia-with-sword-from-witcher-3.1920x1080.mp4"></div>
+<div align="center" ><img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7"></div>
 
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Aghy;He/him;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)" alt="Computer Science Student, Indonesian front-end developer"></a>
