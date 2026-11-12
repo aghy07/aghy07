@@ -1,3 +1,15 @@
+<div style="position: relative; width: 100%; text-align: center;">
+  <!-- GIF di lapisan bawah -->
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
+  <!-- Typing SVG di lapisan atas (tengah) -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&color=7E3ACE&size=18&center=true&vCenter=true&width=1000&height=80&lines=I'm+Aghy;He%2Fhim;Computer+Science+Student;Indonesian+Frontend+Dev;function+findQuestion(42)" alt="Aghy - Computer Science Student">
+    </a>
+  </div>
+</div>
+
 <div id="top"></div>
 <div align="center" ><img width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></div>
 
